@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D72148661E8265EE009F27B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D72148651E8265EE009F27B6 /* AppDelegate.swift */; };
-		D72148681E8265EE009F27B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D72148671E8265EE009F27B6 /* ViewController.swift */; };
-		D721486B1E8265EE009F27B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D72148691E8265EE009F27B6 /* Main.storyboard */; };
-		D721486D1E8265EE009F27B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D721486C1E8265EE009F27B6 /* Assets.xcassets */; };
-		D72148701E8265EE009F27B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D721486E1E8265EE009F27B6 /* LaunchScreen.storyboard */; };
-		D721487B1E8265EE009F27B6 /* __demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D721487A1E8265EE009F27B6 /* __demoTests.swift */; };
-		D72148861E8265EE009F27B6 /* __demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D72148851E8265EE009F27B6 /* __demoUITests.swift */; };
+		D704AB0B1E8266D400264E95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D704AB0A1E8266D400264E95 /* AppDelegate.swift */; };
+		D704AB0D1E8266D400264E95 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D704AB0C1E8266D400264E95 /* ViewController.swift */; };
+		D704AB101E8266D400264E95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D704AB0E1E8266D400264E95 /* Main.storyboard */; };
+		D704AB121E8266D400264E95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D704AB111E8266D400264E95 /* Assets.xcassets */; };
+		D704AB151E8266D400264E95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D704AB131E8266D400264E95 /* LaunchScreen.storyboard */; };
+		D704AB201E8266D400264E95 /* __demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D704AB1F1E8266D400264E95 /* __demoTests.swift */; };
+		D704AB2B1E8266D400264E95 /* __demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D704AB2A1E8266D400264E95 /* __demoUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D72148771E8265EE009F27B6 /* PBXContainerItemProxy */ = {
+		D704AB1C1E8266D400264E95 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D721485A1E8265EE009F27B6 /* Project object */;
+			containerPortal = D704AAFF1E8266D400264E95 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D72148611E8265EE009F27B6;
+			remoteGlobalIDString = D704AB061E8266D400264E95;
 			remoteInfo = "直播demo";
 		};
-		D72148821E8265EE009F27B6 /* PBXContainerItemProxy */ = {
+		D704AB271E8266D400264E95 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D721485A1E8265EE009F27B6 /* Project object */;
+			containerPortal = D704AAFF1E8266D400264E95 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D72148611E8265EE009F27B6;
+			remoteGlobalIDString = D704AB061E8266D400264E95;
 			remoteInfo = "直播demo";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D72148621E8265EE009F27B6 /* 直播demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "直播demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D72148651E8265EE009F27B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D72148671E8265EE009F27B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D721486A1E8265EE009F27B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D721486C1E8265EE009F27B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D721486F1E8265EE009F27B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D72148711E8265EE009F27B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D72148761E8265EE009F27B6 /* 直播demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "直播demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D721487A1E8265EE009F27B6 /* __demoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = __demoTests.swift; sourceTree = "<group>"; };
-		D721487C1E8265EE009F27B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D72148811E8265EE009F27B6 /* 直播demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "直播demoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D72148851E8265EE009F27B6 /* __demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = __demoUITests.swift; sourceTree = "<group>"; };
-		D72148871E8265EE009F27B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D704AB071E8266D400264E95 /* 直播demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "直播demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D704AB0A1E8266D400264E95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D704AB0C1E8266D400264E95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D704AB0F1E8266D400264E95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D704AB111E8266D400264E95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D704AB141E8266D400264E95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D704AB161E8266D400264E95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D704AB1B1E8266D400264E95 /* 直播demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "直播demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D704AB1F1E8266D400264E95 /* __demoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = __demoTests.swift; sourceTree = "<group>"; };
+		D704AB211E8266D400264E95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D704AB261E8266D400264E95 /* 直播demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "直播demoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D704AB2A1E8266D400264E95 /* __demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = __demoUITests.swift; sourceTree = "<group>"; };
+		D704AB2C1E8266D400264E95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D721485F1E8265EE009F27B6 /* Frameworks */ = {
+		D704AB041E8266D400264E95 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D72148731E8265EE009F27B6 /* Frameworks */ = {
+		D704AB181E8266D400264E95 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D721487E1E8265EE009F27B6 /* Frameworks */ = {
+		D704AB231E8266D400264E95 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,53 +74,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D72148591E8265EE009F27B6 = {
+		D704AAFE1E8266D400264E95 = {
 			isa = PBXGroup;
 			children = (
-				D72148641E8265EE009F27B6 /* 直播demo */,
-				D72148791E8265EE009F27B6 /* 直播demoTests */,
-				D72148841E8265EE009F27B6 /* 直播demoUITests */,
-				D72148631E8265EE009F27B6 /* Products */,
+				D704AB091E8266D400264E95 /* 直播demo */,
+				D704AB1E1E8266D400264E95 /* 直播demoTests */,
+				D704AB291E8266D400264E95 /* 直播demoUITests */,
+				D704AB081E8266D400264E95 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D72148631E8265EE009F27B6 /* Products */ = {
+		D704AB081E8266D400264E95 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D72148621E8265EE009F27B6 /* 直播demo.app */,
-				D72148761E8265EE009F27B6 /* 直播demoTests.xctest */,
-				D72148811E8265EE009F27B6 /* 直播demoUITests.xctest */,
+				D704AB071E8266D400264E95 /* 直播demo.app */,
+				D704AB1B1E8266D400264E95 /* 直播demoTests.xctest */,
+				D704AB261E8266D400264E95 /* 直播demoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D72148641E8265EE009F27B6 /* 直播demo */ = {
+		D704AB091E8266D400264E95 /* 直播demo */ = {
 			isa = PBXGroup;
 			children = (
-				D72148651E8265EE009F27B6 /* AppDelegate.swift */,
-				D72148671E8265EE009F27B6 /* ViewController.swift */,
-				D72148691E8265EE009F27B6 /* Main.storyboard */,
-				D721486C1E8265EE009F27B6 /* Assets.xcassets */,
-				D721486E1E8265EE009F27B6 /* LaunchScreen.storyboard */,
-				D72148711E8265EE009F27B6 /* Info.plist */,
+				D704AB0A1E8266D400264E95 /* AppDelegate.swift */,
+				D704AB0C1E8266D400264E95 /* ViewController.swift */,
+				D704AB0E1E8266D400264E95 /* Main.storyboard */,
+				D704AB111E8266D400264E95 /* Assets.xcassets */,
+				D704AB131E8266D400264E95 /* LaunchScreen.storyboard */,
+				D704AB161E8266D400264E95 /* Info.plist */,
 			);
 			path = "直播demo";
 			sourceTree = "<group>";
 		};
-		D72148791E8265EE009F27B6 /* 直播demoTests */ = {
+		D704AB1E1E8266D400264E95 /* 直播demoTests */ = {
 			isa = PBXGroup;
 			children = (
-				D721487A1E8265EE009F27B6 /* __demoTests.swift */,
-				D721487C1E8265EE009F27B6 /* Info.plist */,
+				D704AB1F1E8266D400264E95 /* __demoTests.swift */,
+				D704AB211E8266D400264E95 /* Info.plist */,
 			);
 			path = "直播demoTests";
 			sourceTree = "<group>";
 		};
-		D72148841E8265EE009F27B6 /* 直播demoUITests */ = {
+		D704AB291E8266D400264E95 /* 直播demoUITests */ = {
 			isa = PBXGroup;
 			children = (
-				D72148851E8265EE009F27B6 /* __demoUITests.swift */,
-				D72148871E8265EE009F27B6 /* Info.plist */,
+				D704AB2A1E8266D400264E95 /* __demoUITests.swift */,
+				D704AB2C1E8266D400264E95 /* Info.plist */,
 			);
 			path = "直播demoUITests";
 			sourceTree = "<group>";
@@ -128,13 +128,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D72148611E8265EE009F27B6 /* 直播demo */ = {
+		D704AB061E8266D400264E95 /* 直播demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D721488A1E8265EE009F27B6 /* Build configuration list for PBXNativeTarget "直播demo" */;
+			buildConfigurationList = D704AB2F1E8266D400264E95 /* Build configuration list for PBXNativeTarget "直播demo" */;
 			buildPhases = (
-				D721485E1E8265EE009F27B6 /* Sources */,
-				D721485F1E8265EE009F27B6 /* Frameworks */,
-				D72148601E8265EE009F27B6 /* Resources */,
+				D704AB031E8266D400264E95 /* Sources */,
+				D704AB041E8266D400264E95 /* Frameworks */,
+				D704AB051E8266D400264E95 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,75 +142,75 @@
 			);
 			name = "直播demo";
 			productName = "直播demo";
-			productReference = D72148621E8265EE009F27B6 /* 直播demo.app */;
+			productReference = D704AB071E8266D400264E95 /* 直播demo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D72148751E8265EE009F27B6 /* 直播demoTests */ = {
+		D704AB1A1E8266D400264E95 /* 直播demoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D721488D1E8265EE009F27B6 /* Build configuration list for PBXNativeTarget "直播demoTests" */;
+			buildConfigurationList = D704AB321E8266D400264E95 /* Build configuration list for PBXNativeTarget "直播demoTests" */;
 			buildPhases = (
-				D72148721E8265EE009F27B6 /* Sources */,
-				D72148731E8265EE009F27B6 /* Frameworks */,
-				D72148741E8265EE009F27B6 /* Resources */,
+				D704AB171E8266D400264E95 /* Sources */,
+				D704AB181E8266D400264E95 /* Frameworks */,
+				D704AB191E8266D400264E95 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D72148781E8265EE009F27B6 /* PBXTargetDependency */,
+				D704AB1D1E8266D400264E95 /* PBXTargetDependency */,
 			);
 			name = "直播demoTests";
 			productName = "直播demoTests";
-			productReference = D72148761E8265EE009F27B6 /* 直播demoTests.xctest */;
+			productReference = D704AB1B1E8266D400264E95 /* 直播demoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D72148801E8265EE009F27B6 /* 直播demoUITests */ = {
+		D704AB251E8266D400264E95 /* 直播demoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D72148901E8265EE009F27B6 /* Build configuration list for PBXNativeTarget "直播demoUITests" */;
+			buildConfigurationList = D704AB351E8266D400264E95 /* Build configuration list for PBXNativeTarget "直播demoUITests" */;
 			buildPhases = (
-				D721487D1E8265EE009F27B6 /* Sources */,
-				D721487E1E8265EE009F27B6 /* Frameworks */,
-				D721487F1E8265EE009F27B6 /* Resources */,
+				D704AB221E8266D400264E95 /* Sources */,
+				D704AB231E8266D400264E95 /* Frameworks */,
+				D704AB241E8266D400264E95 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D72148831E8265EE009F27B6 /* PBXTargetDependency */,
+				D704AB281E8266D400264E95 /* PBXTargetDependency */,
 			);
 			name = "直播demoUITests";
 			productName = "直播demoUITests";
-			productReference = D72148811E8265EE009F27B6 /* 直播demoUITests.xctest */;
+			productReference = D704AB261E8266D400264E95 /* 直播demoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D721485A1E8265EE009F27B6 /* Project object */ = {
+		D704AAFF1E8266D400264E95 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "靳志远";
 				TargetAttributes = {
-					D72148611E8265EE009F27B6 = {
+					D704AB061E8266D400264E95 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = Y2S2575EP7;
 						ProvisioningStyle = Automatic;
 					};
-					D72148751E8265EE009F27B6 = {
+					D704AB1A1E8266D400264E95 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = Y2S2575EP7;
 						ProvisioningStyle = Automatic;
-						TestTargetID = D72148611E8265EE009F27B6;
+						TestTargetID = D704AB061E8266D400264E95;
 					};
-					D72148801E8265EE009F27B6 = {
+					D704AB251E8266D400264E95 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = Y2S2575EP7;
 						ProvisioningStyle = Automatic;
-						TestTargetID = D72148611E8265EE009F27B6;
+						TestTargetID = D704AB061E8266D400264E95;
 					};
 				};
 			};
-			buildConfigurationList = D721485D1E8265EE009F27B6 /* Build configuration list for PBXProject "直播demo" */;
+			buildConfigurationList = D704AB021E8266D400264E95 /* Build configuration list for PBXProject "直播demo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -218,37 +218,37 @@
 				en,
 				Base,
 			);
-			mainGroup = D72148591E8265EE009F27B6;
-			productRefGroup = D72148631E8265EE009F27B6 /* Products */;
+			mainGroup = D704AAFE1E8266D400264E95;
+			productRefGroup = D704AB081E8266D400264E95 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D72148611E8265EE009F27B6 /* 直播demo */,
-				D72148751E8265EE009F27B6 /* 直播demoTests */,
-				D72148801E8265EE009F27B6 /* 直播demoUITests */,
+				D704AB061E8266D400264E95 /* 直播demo */,
+				D704AB1A1E8266D400264E95 /* 直播demoTests */,
+				D704AB251E8266D400264E95 /* 直播demoUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D72148601E8265EE009F27B6 /* Resources */ = {
+		D704AB051E8266D400264E95 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D72148701E8265EE009F27B6 /* LaunchScreen.storyboard in Resources */,
-				D721486D1E8265EE009F27B6 /* Assets.xcassets in Resources */,
-				D721486B1E8265EE009F27B6 /* Main.storyboard in Resources */,
+				D704AB151E8266D400264E95 /* LaunchScreen.storyboard in Resources */,
+				D704AB121E8266D400264E95 /* Assets.xcassets in Resources */,
+				D704AB101E8266D400264E95 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D72148741E8265EE009F27B6 /* Resources */ = {
+		D704AB191E8266D400264E95 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D721487F1E8265EE009F27B6 /* Resources */ = {
+		D704AB241E8266D400264E95 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -258,59 +258,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D721485E1E8265EE009F27B6 /* Sources */ = {
+		D704AB031E8266D400264E95 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D72148681E8265EE009F27B6 /* ViewController.swift in Sources */,
-				D72148661E8265EE009F27B6 /* AppDelegate.swift in Sources */,
+				D704AB0D1E8266D400264E95 /* ViewController.swift in Sources */,
+				D704AB0B1E8266D400264E95 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D72148721E8265EE009F27B6 /* Sources */ = {
+		D704AB171E8266D400264E95 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D721487B1E8265EE009F27B6 /* __demoTests.swift in Sources */,
+				D704AB201E8266D400264E95 /* __demoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D721487D1E8265EE009F27B6 /* Sources */ = {
+		D704AB221E8266D400264E95 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D72148861E8265EE009F27B6 /* __demoUITests.swift in Sources */,
+				D704AB2B1E8266D400264E95 /* __demoUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D72148781E8265EE009F27B6 /* PBXTargetDependency */ = {
+		D704AB1D1E8266D400264E95 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D72148611E8265EE009F27B6 /* 直播demo */;
-			targetProxy = D72148771E8265EE009F27B6 /* PBXContainerItemProxy */;
+			target = D704AB061E8266D400264E95 /* 直播demo */;
+			targetProxy = D704AB1C1E8266D400264E95 /* PBXContainerItemProxy */;
 		};
-		D72148831E8265EE009F27B6 /* PBXTargetDependency */ = {
+		D704AB281E8266D400264E95 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D72148611E8265EE009F27B6 /* 直播demo */;
-			targetProxy = D72148821E8265EE009F27B6 /* PBXContainerItemProxy */;
+			target = D704AB061E8266D400264E95 /* 直播demo */;
+			targetProxy = D704AB271E8266D400264E95 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D72148691E8265EE009F27B6 /* Main.storyboard */ = {
+		D704AB0E1E8266D400264E95 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D721486A1E8265EE009F27B6 /* Base */,
+				D704AB0F1E8266D400264E95 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D721486E1E8265EE009F27B6 /* LaunchScreen.storyboard */ = {
+		D704AB131E8266D400264E95 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D721486F1E8265EE009F27B6 /* Base */,
+				D704AB141E8266D400264E95 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -318,7 +318,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D72148881E8265EE009F27B6 /* Debug */ = {
+		D704AB2D1E8266D400264E95 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -368,7 +368,7 @@
 			};
 			name = Debug;
 		};
-		D72148891E8265EE009F27B6 /* Release */ = {
+		D704AB2E1E8266D400264E95 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -411,7 +411,7 @@
 			};
 			name = Release;
 		};
-		D721488B1E8265EE009F27B6 /* Debug */ = {
+		D704AB301E8266D400264E95 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -424,7 +424,7 @@
 			};
 			name = Debug;
 		};
-		D721488C1E8265EE009F27B6 /* Release */ = {
+		D704AB311E8266D400264E95 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -437,7 +437,7 @@
 			};
 			name = Release;
 		};
-		D721488E1E8265EE009F27B6 /* Debug */ = {
+		D704AB331E8266D400264E95 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -452,7 +452,7 @@
 			};
 			name = Debug;
 		};
-		D721488F1E8265EE009F27B6 /* Release */ = {
+		D704AB341E8266D400264E95 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -467,7 +467,7 @@
 			};
 			name = Release;
 		};
-		D72148911E8265EE009F27B6 /* Debug */ = {
+		D704AB361E8266D400264E95 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -481,7 +481,7 @@
 			};
 			name = Debug;
 		};
-		D72148921E8265EE009F27B6 /* Release */ = {
+		D704AB371E8266D400264E95 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -498,40 +498,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D721485D1E8265EE009F27B6 /* Build configuration list for PBXProject "直播demo" */ = {
+		D704AB021E8266D400264E95 /* Build configuration list for PBXProject "直播demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D72148881E8265EE009F27B6 /* Debug */,
-				D72148891E8265EE009F27B6 /* Release */,
+				D704AB2D1E8266D400264E95 /* Debug */,
+				D704AB2E1E8266D400264E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D721488A1E8265EE009F27B6 /* Build configuration list for PBXNativeTarget "直播demo" */ = {
+		D704AB2F1E8266D400264E95 /* Build configuration list for PBXNativeTarget "直播demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D721488B1E8265EE009F27B6 /* Debug */,
-				D721488C1E8265EE009F27B6 /* Release */,
+				D704AB301E8266D400264E95 /* Debug */,
+				D704AB311E8266D400264E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		D721488D1E8265EE009F27B6 /* Build configuration list for PBXNativeTarget "直播demoTests" */ = {
+		D704AB321E8266D400264E95 /* Build configuration list for PBXNativeTarget "直播demoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D721488E1E8265EE009F27B6 /* Debug */,
-				D721488F1E8265EE009F27B6 /* Release */,
+				D704AB331E8266D400264E95 /* Debug */,
+				D704AB341E8266D400264E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		D72148901E8265EE009F27B6 /* Build configuration list for PBXNativeTarget "直播demoUITests" */ = {
+		D704AB351E8266D400264E95 /* Build configuration list for PBXNativeTarget "直播demoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D72148911E8265EE009F27B6 /* Debug */,
-				D72148921E8265EE009F27B6 /* Release */,
+				D704AB361E8266D400264E95 /* Debug */,
+				D704AB371E8266D400264E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D721485A1E8265EE009F27B6 /* Project object */;
+	rootObject = D704AAFF1E8266D400264E95 /* Project object */;
 }
